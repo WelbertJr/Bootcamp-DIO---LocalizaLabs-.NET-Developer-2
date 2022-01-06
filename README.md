@@ -2,7 +2,7 @@
   <h1>Repositório do bootcamp LocalizaLabs-.NET-Developer-2 da DIO</h1>
   </p>
 <p align="justify">
-Nesse bootcamp estou aprendendo os principais conceitos sobre .NET para atuação em projetos de desenvolvimento web e de componentes de interface de usuários.</p><br>
+Nesse bootcamp estou aprendendo os principais conceitos sobre .NET para atuação em projetos de desenvolvimento web e de componentes de interface de usuários. Aqui farei a inclusão de todas as anotações e projetos que desenvolverei ao longo do bootcamp :relaxed::rocket:</p><br>
 
 <p align="center">
   <img width="200" src="Imagens/Localiza-labs.jpg" alt="Logo bootcamp">  
