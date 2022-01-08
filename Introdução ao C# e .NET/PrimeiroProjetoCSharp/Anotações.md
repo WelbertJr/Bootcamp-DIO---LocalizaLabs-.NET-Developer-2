@@ -1,15 +1,20 @@
-# Estruturas
+<div align="center">
+<h1>Estruturas</h1>
+</div>
 
-## Names
+<h2>Names</h2>
 
 * Os namespaces são usados para organizar classes.
-
 * Para usar uma classe de outro namespace, colocamos using no começo do código.
 
-## Classe
+<p align="left">
+  <img width="200" src="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/Imagens/namespace.png?raw=true">  
+  <br>
+</p> 
+
+<h2>Classe</h2>
 
 * Uma classe pode ter campos, propriedades, métodos e evenetos dentro dela que são denominados membros.
-
 * Quando um classe é instanciada, essa instância é chamada de objeto, e nesse objeto podem ser criados os valores de acordo com os campos da classe.
 
 ## Interface
