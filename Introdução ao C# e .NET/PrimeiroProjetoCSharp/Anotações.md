@@ -181,7 +181,7 @@ exemplo:
 
 * Quando um classe é instanciada, essa instância é chamada de objeto, e nesse objeto podem ser criados os valores de acordo com os campos da classe:
 
-p align="center">
+<p align="center">
   <img width="200" hspace="30" src="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/Imagens/animal1.png?raw=true">
   <img width="190" src= "https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/Imagens/animal2.png?raw=true">
   <br>
