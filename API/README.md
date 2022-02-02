@@ -1,43 +1,46 @@
-﻿O que é API?
+<div align="center"> 
+  <h1>O que é API?</h1>
+  </div>
+  
+* Application Program Interface.
+* Pense em API como a camada que esconde as regras e possibilita uma comunicação externa.
+* Facilita muito a integração.
+* Existem várias metodologias (ou arquiteturas), como por exemplo: SOA, Rest, uso por meio de SDK.
 
--Application Program Interface.
+## Https Methods
 
-- Pense em API como a camada que esconde as regras e possibilita uma comunicação externa.
--Facilita muito a integração.
--Existem várias metodologias (ou arquiteturas), como por exemplo: SOA, Rest, uso por meio de SDK.
+* Get: Sempre obtém os dados.
+* Post: Cria um novo registro ou recurso.
+* Put: Atualiza um registro existente.
+* Delete: Remove um registro existente.
 
-Https Methods
+## Padrões
 
-Get: Sempre obtém os dados.
-Post: Cria um novo registro ou recurso.
-Put: Atualiza um registro existente.
-Delete: Remove um registro existente.
+* Get: /api/dev/user
+* Post: /api/dev/user
+* Put: / api/dev/user/{id}
+* Delete: /api/dev/user/{id}
 
-Padrões
+## Erros comuns
 
-Get: /api/dev/user
-Post: /api/dev/user
-Put: / api/dev/user/{id}
-Delete: /api/dev/user/{id}
+* Post: /api/dev/user/{id}
+* Post: /api/dev/user/create
+* Put: /api/dev/user
+* Delete: /api/dev/user?id=2
 
-Erros comuns
+## Status Codes
+* Geralmente:
+* 2x...= Sucesso
+* 4x...=Erro no cliente
+* 5x...=Erro server side
 
-Post: /api/dev/user/{id}
-Post: /api/dev/user/create
-Put: /api/dev/user
-Delete: /api/dev/user?id=2
+## Status comuns:
+* 200 = OK
+* 401 = Unauthorized
+* 403 = Forbidden
+* 404 = Not found
+* 500 = Internal Server Error
+* 504 = Gateway Timeout
 
-Status Codes
-Geralmente:
-2x...= Sucesso
-4x...=Erro no cliente
-5x...=Erro server side
-
-Status comuns:
-200 = OK
-401 = Unauthorized
-403 = Forbidden
-404 = Not found
-500 = Internal Server Error
-504 = Gateway Timeout
-DICA DE TECNOLOGIA PARA CONSUMIR API: Postman﻿
+## Dica de tecnologia para consumir API: 
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
