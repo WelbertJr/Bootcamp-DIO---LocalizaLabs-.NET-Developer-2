@@ -174,7 +174,7 @@ exemplo:
 
 * Uma classe pode ter campos, propriedades, métodos e eventos dentro dela que são denominados membros:
 
-<p align="left">
+<p align="center">
   <img width="200" src="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/Imagens/classe-membro.png?raw=true">  
   <br>
 </p> 
