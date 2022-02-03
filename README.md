@@ -12,19 +12,15 @@ Nesse bootcamp estou aprendendo os principais conceitos sobre .NET para atuaçã
 # Documentação
 
 <ol>
-<li><a href="docs/01-Introdução ao C# e .NET.md"> Introdução ao C# e .NET</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>/
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
-<li><a href="docs/13-Referências.md"> Referências</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/01-Introdu%C3%A7%C3%A3o%20ao%20C%23%20e%20.NET.md"> Introdução ao C# e .NET</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/02-Introdu%C3%A7%C3%A3o%20ao%20Git%20e%20ao%20GitHub.md"> Introdução ao Git e ao GitHub</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/03-Programa%C3%A7%C3%A3o%20orientada%20a%20objetos.md"> Programação orientada a objetos</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/04-Modificadores.md"> Modificadores</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/05-Cole%C3%A7%C3%B5es.md"> Coleções</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/06-Lista%2CPilha%20e%20Fila.md"> Lista,Pilha e Fila</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/07-O%20que%20%C3%A9%20API%3F.md"> O que é API?</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/08-Design%20Patterns.md"> Design Patterns</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/09-Comandos%20.NET.md"> Comandos .NET</a></li>
 </ol>
 
 <p align="justify">
