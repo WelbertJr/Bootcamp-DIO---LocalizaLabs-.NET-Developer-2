@@ -21,6 +21,7 @@ Nesse bootcamp estou aprendendo os principais conceitos sobre .NET para atuaçã
 <li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/07-O%20que%20%C3%A9%20API%3F.md"> O que é API?</a></li>
 <li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/08-Design%20Patterns.md"> Design Patterns</a></li>
 <li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/blob/main/docs/09-Comandos%20.NET.md"> Comandos .NET</a></li>
+<li><a href="https://github.com/WelbertJr/Bootcamp-DIO---LocalizaLabs-.NET-Developer-2/tree/main/Desafios%20C%23">Desafios C#</a></li>  
 </ol>
 
 <p align="justify">
